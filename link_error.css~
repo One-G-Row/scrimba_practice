@@ -1,0 +1,11 @@
+body{
+background-color: #000;
+}
+#container{
+position: relative;
+top: 100px;
+left: 500px;
+}
+#error{
+color: red;
+}
